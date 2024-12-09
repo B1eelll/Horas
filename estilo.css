@@ -1,0 +1,47 @@
+body{
+background: rgb(49, 49, 219);
+font: normal 15pt arial;
+}
+header{
+color: white;
+text-align: center;
+}
+#div1{
+text-align: center;
+}
+#dia{
+width: 300px;
+height: 230px;
+box-shadow: 5px 5px 10px black;
+}
+#tarde{
+width: 300px;
+height: 250px;
+box-shadow: 5px 5px 10px black;
+}
+#noite{
+box-shadow: 5px 5px 10px black;
+}
+#foto{
+width: 300px;
+height: 300px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+section{
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.678);
+}
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+
+
+}
